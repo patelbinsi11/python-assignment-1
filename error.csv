@@ -1,0 +1,2 @@
+   tid,acc,type,amount,time,reason
+   T2,A1,DEBIT,abc,2026-01-01T10:05:00,amount is not numeric

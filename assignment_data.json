@@ -1,0 +1,15 @@
+{
+ "students": {
+  "2201": "aesha"
+ },
+ "records": [
+  {
+   "enrollment": "2201",
+   "name": "aesha",
+   "assignment": "Assignment 1",
+   "status": "Completed",
+   "marks": 18,
+   "remarks": ""
+  }
+ ]
+}

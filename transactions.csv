@@ -1,0 +1,4 @@
+   tid,acc,type,amount,time
+   T1,A1,CREDIT,500,2026-01-01T10:00:00
+   T2,A1,DEBIT,abc,2026-01-01T10:05:00
+   T3,A2,DEBIT,100,2026-01-01T10:10:00
